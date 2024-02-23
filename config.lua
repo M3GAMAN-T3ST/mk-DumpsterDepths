@@ -22,6 +22,6 @@ Config.InteractionSound = 'rappel' -- Sound played when interacting with the dum
 
 Config.Progressbar = { -- Progress Bar Lengths (seconds)
     OpenLid = {
-        Length = math.random(5, 9),
+        Length = math.random(1, 4),
     },
 }
